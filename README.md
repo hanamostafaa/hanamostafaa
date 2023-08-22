@@ -17,8 +17,7 @@
 
 
 <p>
-  <a href="www.linkedin.com/in/
-hana-mostafa9">
+  <a href="https://www.linkedin.com/in/hana-mostafa9/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
 
