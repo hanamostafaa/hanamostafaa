@@ -7,7 +7,7 @@
 
 <p>
   <em>
-    A passionate 3rd Year Computer Engineering undergraduate at Cairo University 👾 <br>
+    A passionate senior computer engineering student at Cairo University 👾 <br>
    
   </em>  
 </p>
